@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "vercel-build": "expo  export"
+    "vercel-build": "vite build"
   },
   "keywords": [],
   "author": "",
