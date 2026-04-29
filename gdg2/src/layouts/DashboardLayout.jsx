@@ -116,7 +116,6 @@ function Sidebar({ onNavigate, onSignOut }) {
           onClick={onSignOut}
         >
           <span className="grid h-8 w-8 place-items-center rounded-full bg-white text-slate-500 shadow-sm">
-            >
           </span>
           Sign Out
         </button>
