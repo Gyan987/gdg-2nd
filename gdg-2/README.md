@@ -1,4 +1,3 @@
-
 # Precision2
 
 Precision2 is a Vite + React dashboard with Clerk authentication, Tailwind styling, and marketing pages (Services, Case Studies, Contact). It includes a dashboard area behind auth and a marketing preview system that renders the original HTML pages inside the app.
