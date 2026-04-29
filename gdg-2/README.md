@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Precision2
 
 Precision2 is a Vite + React dashboard with Clerk authentication, Tailwind styling, and marketing pages (Services, Case Studies, Contact). It includes a dashboard area behind auth and a marketing preview system that renders the original HTML pages inside the app.
@@ -83,3 +84,6 @@ The Vercel config includes SPA rewrites so client-side routing works on refresh.
 
 - If the app fails to start, ensure `VITE_CLERK_PUBLISHABLE_KEY` is defined.
 - If auth pages redirect unexpectedly, confirm the Clerk publishable key is for the correct instance.
+=======
+
+>>>>>>> ceee6c1f377d4525a874cecd418e47f6ec0299f6
