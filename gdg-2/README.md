@@ -83,4 +83,3 @@ The Vercel config includes SPA rewrites so client-side routing works on refresh.
 
 - If the app fails to start, ensure `VITE_CLERK_PUBLISHABLE_KEY` is defined.
 - If auth pages redirect unexpectedly, confirm the Clerk publishable key is for the correct instance.
-=======
