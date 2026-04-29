@@ -69,6 +69,9 @@ The app runs at http://localhost:5173 by default.
 - `/dashboard/metrics`
 - `/dashboard/clients`
 - `/dashboard/profile`
+###Wakatime Dashboard
+<img width="1632" height="905" alt="image" src="https://github.com/user-attachments/assets/61719573-f6e6-4533-a66d-f5164430c770" />
+
 
 ## Deployment (Vercel)
 
